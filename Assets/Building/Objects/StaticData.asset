@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7c42078e08e0744a08c140e13885d4, type: 3}
+  m_Name: StaticData
+  m_EditorClassIdentifier: 
+  _carPrefab: {fileID: 3126701112331261407, guid: 5d31ef8fa3c4d684dae42b7b54e0d0d6, type: 3}
+  _cameraPrefab: {fileID: -5003844143332206719, guid: 541900eb05ddee048a62e17f36ae3115, type: 3}
+  _groundPrefab: {fileID: 720699250482787877, guid: 8262a7c9c5d366445aa739f814c04ba3, type: 3}
+  _stickmanPrefab: {fileID: 8520257148731811262, guid: 0b7b591801dc7f1438e8c421f3588dcf, type: 3}
+  _maxTileCount: 4
+  _simulationSpeed: 30
